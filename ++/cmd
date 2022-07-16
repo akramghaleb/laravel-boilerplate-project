@@ -1,4 +1,6 @@
 - composer create-project laravel/laravel
 - npm install vue@next vue-loader@next
 - npm i @vitejs/plugin-vue@^2.3.3
-
+- npm i tailwindcss@latest
+- npx tailwindcss init -p
+- npm install postcss autoprefixer
