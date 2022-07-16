@@ -8,8 +8,5 @@
 </head>
 <body>
 <div id="app"></div>
-
-<a href="https://github.com/akramdev-ye" target="_blank">Done by Akram Ghaleb</a>
-
 </body>
 </html>

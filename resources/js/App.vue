@@ -1,11 +1,11 @@
 <template>
     <h1 class="text-xl">Hello Akram</h1>
+    <router-view />
+    <Footer/>
 </template>
 
-<script>
-export default {
-    name: "App"
-}
+<script setup>
+
 </script>
 
 <style scoped>

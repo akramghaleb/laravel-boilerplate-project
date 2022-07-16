@@ -4,3 +4,4 @@
 - npm i tailwindcss@latest
 - npx tailwindcss init -p
 - npm install postcss autoprefixer
+- npm i vue-router
