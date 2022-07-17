@@ -37,6 +37,12 @@ npm run dev
 npm run build
 ```
 <br>
+### Last steps
+Generate Application key
+
+```sh
+php artisan key:generate
+```
 
 Edit .env file
 
