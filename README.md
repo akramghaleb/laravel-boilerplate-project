@@ -40,6 +40,9 @@ npm run build
 
 
 ### Last steps
+copy .env.example to .env file then
+<br>
+
 Generate Application key
 
 ```sh
