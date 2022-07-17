@@ -1,5 +1,5 @@
 <template>
-<h1>Akram kjhkjh</h1>
+Body here
 </template>
 
 <script>

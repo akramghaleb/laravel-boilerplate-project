@@ -5,3 +5,4 @@
 - npx tailwindcss init -p
 - npm install postcss autoprefixer
 - npm i vue-router
+- npm install --save-dev require-context.macro
