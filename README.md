@@ -37,6 +37,8 @@ npm run dev
 npm run build
 ```
 <br>
+
+
 ### Last steps
 Generate Application key
 
@@ -49,3 +51,5 @@ Edit .env file
 ```sh
 APP_URL=http://localhost:8000
 ```
+
+### Done
