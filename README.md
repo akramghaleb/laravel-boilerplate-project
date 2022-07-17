@@ -36,4 +36,10 @@ npm run dev
 ```sh
 npm run build
 ```
+<br>
 
+Edit .env file
+
+```sh
+APP_URL=http://localhost:8000
+```
