@@ -55,4 +55,4 @@ Edit .env file
 APP_URL=http://localhost:8000
 ```
 
-### Done
+
