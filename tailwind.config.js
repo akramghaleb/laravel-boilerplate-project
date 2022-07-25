@@ -1,10 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-    purge: [
+    content: [
         './resources/js/**/*.{vue,js}',
         './resources/views/**/*.blade.php'
     ],
-    content: [],
     theme: {
     extend: {},
     },
